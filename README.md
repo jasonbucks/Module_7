@@ -44,7 +44,7 @@ If either are not installed, install them while in the Conda dev environment:
 
 The Jupyter notebook containing both my analysis of the ETF data stored in a SQL database as well as the interactive visualizations is included.  A video summarizing this Jupyter notebook deployed as a web application via the Voila library can be found below:
 
-   ![Voila Video](Images/voila_video.mp4)
+https://user-images.githubusercontent.com/102486437/178110644-434bcab0-d137-43fd-9e00-55d9891b1ddc.mp4
 
 ---
 
